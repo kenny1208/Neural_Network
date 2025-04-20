@@ -1,0 +1,12 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+6VAE/generated_images/
+
+# pycache
+__pycache__/
+*.pyc
+
+# µÍ¿¿¿Ùπ“
+venv/
+env/
