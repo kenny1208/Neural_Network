@@ -2,6 +2,7 @@
 .ipynb_checkpoints/
 
 6VAE/generated_images/
+6VAE/vae_generated_images/
 
 # pycache
 __pycache__/
